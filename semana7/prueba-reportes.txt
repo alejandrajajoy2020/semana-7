@@ -1,0 +1,12 @@
+Prueba de Reportes - Análisis de Resultados
+
+Al realizar una solicitud GET a http://localhost:3000/reportes, se devuelve un array JSON con todos los reportes que han sido registrados hasta ese momento. 
+
+Cuando el servidor acaba de iniciar y no se han registrado reportes, la respuesta es un array vacío [].
+
+Después de realizar una solicitud POST para registrar un reporte con datos como "tipo" y "descripcion", el servidor:
+1. Crea un nuevo objeto reporte con un id único (secuencial)
+2. Agrega el objeto al array reportes en memoria
+3. Devuelve una respuesta JSON confirma el registro exitoso
+
+Cuando se consulta nuevamente con GET /reportes, el array contiene ahora todos los reportes registrados previamente en esa sesión del servidor. Si el servidor se detiene y reinicia, los reportes se pierden porque se almacenan en memoria volátil.

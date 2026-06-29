@@ -1,0 +1,7 @@
+Reflexión - Importancia del Sistema de Reportes Comunitarios
+
+Es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica porque facilita la comunicación centralizada entre los ciudadanos y las autoridades. Un sistema digital permite documentar problemas de infraestructura, ambiente y seguridad de forma ordenada y accesible.
+
+Cuando los reportes se registran en una plataforma, la comunidad puede monitorear el estado de sus problemas, evitando que las incidencias pasen desapercibidas. Las autoridades tienen una visión clara de los problemas prioritarios, ya que los datos se pueden organizar y analizar.
+
+Además, la tecnología crea un registro histórico de los reportes, lo que facilita identificar patrones, repeticiones y zonas críticas que requieren mayor atención. Esto genera mayor transparencia y confianza entre la comunidad y las instituciones, promoviendo una gobernanza colaborativa donde la información fluye de manera eficiente y documentada.
